@@ -1,0 +1,44 @@
+{
+  "autores": [
+    {
+      "id": 1,
+      "nombre": "Joseph Sweetman",
+      "libros": [
+        {
+          "id": 101,
+          "titulo": "Text-book of general physics",
+          "publicacion": "1904",
+          "categoría": "Física"
+        },
+        {
+          "id": 102,
+          "titulo": "The constitution of matter",
+          "publicacion": "1913",
+          "categoría": "Física"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "nombre": "Arthur Mee",
+      "libros": [
+        {
+          "id": 201,
+          "titulo": "The Book of knowledge",
+          "publicacion": "1912"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "nombre": "Mark Jones",
+      "libros": [
+        {
+          "id": 301,
+          "titulo": "Fake - the art of deception",
+          "publicacion": "1990"
+        }
+      ]
+    }
+  ]
+}
